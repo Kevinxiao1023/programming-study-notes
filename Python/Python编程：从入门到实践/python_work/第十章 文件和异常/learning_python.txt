@@ -1,0 +1,3 @@
+In Python you can smile
+In Python you can do everything
+In Python you can do data analysis
